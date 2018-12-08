@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Huny-B.info</title>
+    <link>https://Huny-B.info/post/</link>
+    <description>Recent content in Posts on Huny-B.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2018 Huny-B CBD-Oil Ltd Co. All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 04 Nov 2018 10:21:40 -0600</lastBuildDate>
+    
+	<atom:link href="https://Huny-B.info/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Under Construction</title>
+      <link>https://Huny-B.info/post/under-construction/</link>
+      <pubDate>Sun, 04 Nov 2018 10:21:40 -0600</pubDate>
+      
+      <guid>https://Huny-B.info/post/under-construction/</guid>
+      <description> This is the product information portal for Huny-B CBD-Oil Ltd Co.   </description>
+    </item>
+    
+  </channel>
+</rss>
